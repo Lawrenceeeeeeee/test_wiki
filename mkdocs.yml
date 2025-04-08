@@ -1,7 +1,7 @@
-site_name: Test Wiki
+site_name: FinTech DIY Wiki
 site_url: https://localhost:8000/mysite
-repo_url: https://github.com/Lawrenceeeeeeee/findiy_wiki
-repo_name: Lawrenceeeeeeee/findiy_wiki
+repo_url: https://github.com/Lawrenceeeeeeee/fintech_diy_wiki
+repo_name: Lawrenceeeeeeee/fintech_diy_wiki
 
 theme:
   name: material
@@ -32,7 +32,7 @@ theme:
     - search.highlight
     - search.share
     - content.code.copy
-    # - content.code.select
+    - content.code.select
   icon:
     admonition:
       note: fontawesome/solid/note-sticky

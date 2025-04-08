@@ -1,7 +1,7 @@
 site_name: Test Wiki
 site_url: https://localhost:8000/mysite
-repo_url: https://github.com/Lawrenceeeeeeee/test_wiki
-repo_name: Lawrenceeeeeeee/test_wiki
+repo_url: https://github.com/Lawrenceeeeeeee/findiy_wiki
+repo_name: Lawrenceeeeeeee/findiy_wiki
 
 theme:
   name: material

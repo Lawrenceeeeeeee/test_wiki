@@ -1,0 +1,4 @@
+site_name: Test Wiki
+site_url: https://localhost:8000/mysite
+theme:
+  name: material

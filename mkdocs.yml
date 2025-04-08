@@ -50,7 +50,6 @@ theme:
     
 plugins:
   - search
-  - blog
 
 markdown_extensions:
   - admonition
@@ -91,3 +90,33 @@ extra:
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - 欢迎: index.md
+  - 新手村:
+      - 基础计算机知识: 新手村/basic_cs.md
+      - Linux: 新手村/linux.md
+      - Markdown: 新手村/markdown.md
+      - LaTeX: 新手村/latex.md
+      - Git: 新手村/git.md
+      - GitHub: 新手村/github.md
+  - 数学:
+      - 前言: 数学/math_index.md
+      - 高等数学: 数学/高等数学.md
+      - 线性代数: 数学/线性代数.md
+      - 概率论与数理统计: 数学/概率论与数理统计.md
+      - 离散数学: 数学/离散数学.md
+      - 运筹学: 数学/运筹学.md
+  - 经济学:
+      - 微观经济学: 经济学/microeco.md
+      - 宏观经济学: 经济学/macroeco.md
+      - 计量经济学: 经济学/计量经济学.md
+  - 编程基础:
+      - 前言: 编程基础/coding_index.md
+      - Python: 编程基础/python.md
+      - C++: 编程基础/cpp.md
+  - 常用工具:
+      - MATLAB: 常用工具/matlab.md
+      - Stata: 常用工具/stata.md
+
+      

@@ -98,8 +98,7 @@ nav:
       - Linux: 新手村/linux.md
       - Markdown: 新手村/markdown.md
       - LaTeX: 新手村/latex.md
-      - Git: 新手村/git.md
-      - GitHub: 新手村/github.md
+      - Git & Github: 新手村/git_github.md
   - 数学:
       - 前言: 数学/math_index.md
       - 高等数学: 数学/高等数学.md
